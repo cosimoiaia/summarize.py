@@ -1,4 +1,4 @@
-# summary.py
+# summarize.py
 Simple python script using Nltk to summarize articles from the web.
 
 Based on the numerous paper and example found on the Internet (i.e. http://thetokenizer.com/2013/04/28/build-your-own-summary-tool/).
@@ -10,9 +10,11 @@ Install NLTK:
  
 Download the corpora files and trained model:
 
+
 $ python
 >>> import nltk
 >>> nltk.download('all')
+
 
 Now you can pass any url on the commandline to be summarized i.e.:
 
