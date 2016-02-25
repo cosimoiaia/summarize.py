@@ -12,6 +12,7 @@ Download the corpora files and trained model:
 
 
 $ python
+
 \>\>\> import nltk
 
 \>\>\> nltk.download('all')
