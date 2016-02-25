@@ -12,8 +12,9 @@ Download the corpora files and trained model:
 
 
 $ python
->>> import nltk
->>> nltk.download('all')
+\>\>\> import nltk
+
+\>\>\> nltk.download('all')
 
 
 Now you can pass any url on the commandline to be summarized i.e.:
